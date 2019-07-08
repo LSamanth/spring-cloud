@@ -1,2 +1,2 @@
 # spring-cloud
-Learning sprinf cloud using spring boot
+Learning spring cloud using spring boot
